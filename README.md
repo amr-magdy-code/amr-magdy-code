@@ -34,11 +34,10 @@ c<!-- ======== Profile Header ======== -->
 
 ---
 
-## 🧰 Tech Stack
 
 ## 🛠 Languages & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -46,7 +45,6 @@ c<!-- ======== Profile Header ======== -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
-
 
 
 ---
