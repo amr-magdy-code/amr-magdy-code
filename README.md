@@ -1,4 +1,4 @@
-<!-- ======== Profile Header ======== -->
+c<!-- ======== Profile Header ======== -->
 <h1 align="center">Hi 👋, I'm Amr Magdy</h1>
 <h3 align="center">🎓 Computer Science Student | 💻 Future Software Engineer from Egypt</h3>
 
@@ -18,17 +18,20 @@
 ---
 ## 🌐 Connect with me
 
+## 🌐 Connect with me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/amr-magdy-hamed" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://facebook.com/YOUR_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/amr-magdy-hamed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100094118859184" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:amrmagdy994812599@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
