@@ -1,6 +1,6 @@
 <!-- ======== Profile Header ======== -->
 <h1 align="center">Hi 👋, I'm Amr Magdy</h1>
-<h3 align="center">💻 A Passionate Backend Developer from Egypt</h3>
+<h3 align="center">🎓 Computer Science Student | 💻 Future Software Engineer from Egypt</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amrMagdyHamed&label=Profile%20views&color=0e75b6&style=flat" alt="amrMagdyHamed" />
@@ -10,18 +10,16 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on **Backend Development Projects**
-- 🌱 I’m learning **DevOps | Cloud | Advanced SQL**
+- 🔭 I’m currently working on **Software Engineer**
+- 💻 Learning: **C++ | Problem Solving | HTML | CSS | JavaScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, C++, SQL, Node.js**
 - ⚡ Fun fact: **I love clean code and solving problems efficiently**
 
 ---
-
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+<a href="https://www.linkedin.com/in/amr-magdy-hamed" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://facebook.com/YOUR_LINK" target="_blank">
@@ -37,15 +35,14 @@
 ## 🧰 Tech Stack
 
 <p align="left">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
+
 
 ---
 
