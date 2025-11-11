@@ -16,7 +16,6 @@ c<!-- ======== Profile Header ======== -->
 - ⚡ Fun fact: **I love clean code and solving problems efficiently**
 
 ---
-## 🌐 Connect with me
 
 ## 🌐 Connect with me
 
